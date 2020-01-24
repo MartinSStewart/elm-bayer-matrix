@@ -1,5 +1,11 @@
 module BayerMatrix exposing (matrix, matrixNormalized)
 
+{-|
+
+@docs matrix, matrixNormalized
+
+-}
+
 import Array2D exposing (Array2D)
 
 
