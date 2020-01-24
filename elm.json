@@ -1,7 +1,7 @@
 {
     "type": "package",
     "name": "MartinSStewart/elm-bayer-matrix",
-    "summary": "Generate bayer matrices. Useful for dithering.",
+    "summary": "Generate Bayer matrices. Useful for dithering patterns.",
     "license": "MIT",
     "version": "1.0.0",
     "exposed-modules": [
